@@ -4,9 +4,10 @@ Retail Sales Analytics Dashboard (Power BI)
 This project analyzes retail sales data to generate insights into revenue performance, customer behavior, product trends, and transaction patterns using Power BI and DAX.
 The dashboard includes interactive filters, drill-down capabilities, and role-based access control.
 
-![Dashboard](Screenshots/dashboard.jpg)
-![Dashboard](Screenshots/dashboard_page_(2).png)
-________________________________________
+![dashboard](https://github.com/user-attachments/assets/532b2dba-4f6f-41d0-997c-5ebca587fa15)
+
+_____<img width="1240" height="658" alt="dashboard page (2)" src="https://github.com/user-attachments/assets/fba97391-fa25-4fdc-9776-a50ba3850d7b" />
+___________________________________
 Project Objectives
 The dashboard answers key business questions such as:
 •	What is the total revenue generated?
